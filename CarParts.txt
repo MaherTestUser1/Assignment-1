@@ -4,3 +4,5 @@ Car Parts
 - Engine
 - Lights
 --------------
+- Locks
+- Driving wheel
